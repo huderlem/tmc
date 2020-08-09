@@ -670,6 +670,7 @@ SECTIONS {
 		asm/deathFx.o(.text);
 		asm/itemForSale.o(.text);
 		asm/button.o(.text);
+		src/object/object4.o(.text);
 		asm/object4.o(.text);
 		src/object/pot.o(.text);
 		asm/object6.o(.text);
